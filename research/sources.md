@@ -2,72 +2,72 @@
 
 ## Justin Welsh
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Built one of the largest personal brands on LinkedIn through organic content and consistently shares actionable frameworks for audience growth.
+Built one of the largest personal brands on LinkedIn through organic content and consistently shares actionable frameworks for audience growth, audience monetization, and founder-led content.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* YouTube
+* Newsletter
 * Website
 
 ---
 
 ## Richard van der Blom
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Recognized for extensive LinkedIn algorithm research and practical recommendations backed by data.
+Widely recognized for his LinkedIn algorithm research and data-driven insights regarding platform behavior, visibility, and content performance.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* YouTube
-* Reports
+* Research Reports
+* Speaking Content
 
 ---
 
 ## Amanda Natividad
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Specializes in audience growth, content marketing, and demand generation for B2B companies.
+Specializes in audience growth, demand generation, and content marketing for B2B organizations.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* Blog Articles
+* Articles
 * Podcasts
 
 ---
 
 ## Dave Gerhardt
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Former marketing leader at major B2B SaaS companies and strong advocate of founder-led content.
+Known for pioneering modern B2B content and demand generation strategies focused on audience trust and brand building.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* Podcasts
 * Community Content
+* Podcasts
 
 ---
 
 ## Chris Walker
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Known for practical demand generation strategies and content-driven growth for SaaS companies.
+Recognized for practical demand generation frameworks and strong opinions on content-driven growth.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
 * YouTube
@@ -77,27 +77,27 @@ Sources:
 
 ## Ross Simmonds
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Expert in content distribution and organic content amplification.
+Leading voice in content distribution and amplification, with strong emphasis on maximizing content reach and ROI.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* Blog Articles
-* YouTube
+* Blog Content
+* Interviews
 
 ---
 
 ## Gaetano DiNardi
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Experienced B2B growth marketer with strong expertise in content-led acquisition.
+Experienced growth marketer focused on B2B acquisition, content strategy, and SaaS growth systems.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
 * Articles
@@ -107,12 +107,12 @@ Sources:
 
 ## Mandy McEwen
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Focused on LinkedIn-based social selling and B2B audience building.
+Specializes in LinkedIn-based social selling and relationship-driven B2B growth.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
 * Webinars
@@ -122,28 +122,51 @@ Sources:
 
 ## Tom Orbach
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Shares practical LinkedIn growth frameworks and content creation systems.
+Provides practical LinkedIn growth systems, content frameworks, and audience-building methodologies.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* YouTube
 * Newsletter
+* Videos
 
 ---
 
 ## Tyler Denk
 
-Status: Pending Collection
+Status: Collected
 
 Why Selected:
-Founder-led growth expert who openly shares audience-building and content strategies.
+Founder-led growth practitioner who openly shares audience-building and content-driven growth strategies.
 
-Sources:
+Primary Sources:
 
 * LinkedIn
-* Podcasts
 * Newsletter
+* Interviews
+
+---
+
+## Collection Summary
+
+Topic:
+LinkedIn Organic Content Strategy for B2B SaaS
+
+Experts Analyzed:
+10
+
+LinkedIn Posts Collected:
+50+
+
+Research Focus:
+
+* Audience growth
+* Thought leadership
+* Founder-led content
+* Demand generation
+* Organic acquisition
+* Content systems
+* Positioning and authority building
