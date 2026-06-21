@@ -46,6 +46,7 @@
 - **Core Pivot:** Soft-selling high-value resources through vulnerability and authority metrics, rather than hard-pitching product links.
 - **B2B SaaS Application:** SaaS executives can mirror this framework: share the unglamorous journey of scaling a specific process, build credibility with actual data, and drive massive organic traffic to a lead magnet (whitepaper, free tool, or template) instead of pushing a direct product demo.
 
+---
 
 ## Post 2: Contrarian Positioning to Break Industry Noise
 - **Date Collected:** 2026-06-19
@@ -98,6 +99,7 @@
 - **Core Pivot:** Pattern-interruption by aggressively challenging standard industry dogmas (headcount vs. revenue efficiency) to capture immediate attention from a specific target audience.
 - **B2B SaaS Application:** SaaS brands can break through crowded markets by taking a public stance against "defensible but outdated" industry norms (e.g., attacking legacy software complexity, bloated setups, or forced long-term contracts), framing their product as the only logical choice for modern companies.
 
+---
 
 ## Post 3: Framework-Driven Authority (The Educational Listicle)
 - **Date Collected:** 2026-06-19
@@ -138,6 +140,7 @@
 - **Core Pivot:** Indexing high-value intellectual property into a scannable, numbered list to build immediate educational authority before delivering the call to action.
 - **B2B SaaS Application:** SaaS marketing teams should heavily leverage "listicles" that outline internal operational frameworks (e.g., "Our 5-step framework to reduce churn" or "3 metrics we track for pipeline alignment"). This positions the company as an industry educator, lowering the friction for prospects to click through to an ebook or software demo.
 
+---
 
 ## Post 4: Data-Driven Optimization vs. Vocal Feedback
 - **Date Collected:** 2026-06-19
@@ -191,6 +194,7 @@
 - **Core Pivot:** Shifting from reactive iteration based on immediate vocal criticism (vanity feedback) to structured, metrics-driven optimization based on lagging conversion data.
 - **B2B SaaS Application:** When a SaaS company launches a new feature, landing page, or organic content campaign, the marketing and product teams must resist the urge to make immediate changes based on early, isolated complaints from non-buyers. Strategy should dictate setting a hard tracking window, measuring core product-led growth (PLG) metrics or North Star KPIs, and iterating logically rather than emotionally.
 
+---
 
 ## Post 5: The Entrepreneurial Lifecycle Framework (Anti-Growth-Hack Strategy)
 - **Date Collected:** 2026-06-19

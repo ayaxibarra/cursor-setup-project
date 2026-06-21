@@ -64,6 +64,7 @@ Future update included (October edition), no additional fee
   2. **Format Rotation (Points 9 & 14):** Build a content calendar that alternates formats (e.g., a Document/PDF carousel followed by a Lo-fi video), avoiding back-to-back text posts to prevent the -25% algorithmic penalty.
   3. **Ungated Value (Point 16):** Push free, highly-actionable content directly on the platform to maximize top-of-funnel reach (20-25x more impressions), delaying lead gating until the prospect is warm.
 
+---
 
   ## Post 2: The TRUST Social Selling Methodology
 - **Date Collected:** 2026-06-19
@@ -123,6 +124,7 @@ Future update included (October edition), no additional fee
   2. **The "Magical Offer":** Once connected, instead of pitching a software demo immediately, the SDR asks for consent to send a hyper-specific, free resource (e.g., "A 1-page checklist for scaling engineering teams").
   3. **Low-Friction Conversion:** Use the feedback on that resource as the natural bridge to book a 15-minute introductory discovery call.
 
+---
 
   ## Post 3: The 6-Ingredient High-Converting Post Architecture
 - **Date Collected:** 2026-06-19
@@ -185,6 +187,7 @@ Future update included (October edition), no additional fee
   1. **Capture Algorithmic Cold Traffic (Ingredient 3):** Since the 2026 Interest Graph pushes posts to 50% non-followers, the author must explicitly insert their authority early in the post (e.g., "As a tech recruiter who screened 1,000+ candidates this year..."). This anchors trust with strangers.
   2. **Strategic Pipeline Engineering (Ingredient 6):** Train the team to choose their Call to Engage (CTE) based on quarterly goals. To build algorithmic momentum and broad awareness, use a closed question (2.7x more comments). To feed the sales funnel with high-intent leads, use an open question to drive a 3.4x increase in direct message (DM) conversations.
 
+---
 
   ## Post 4: The 5-System B2B Authority Engine (Infrastructure vs. Virality)
 - **Date Collected:** 2026-06-19
@@ -235,6 +238,7 @@ Future update included (October edition), no additional fee
   1. **Profile Architecture (System 1):** Audit the LinkedIn profiles of the founder and the entire sales/HR team. Redesign them to function as active lead-generation landing pages (clear value proposition in the headline, problem-solving narrative in the "About" section, and direct links to a product trial or scheduling tool in the "Featured" section) to trigger the 4.2x inquiry multiplier.
   2. **Topical Focus Lock (System 2):** Enforce an operational rule where the company's public voices stick strictly to 1 or 2 specific pillars (e.g., "Modern Recruitment Bottlenecks" and "SaaS Scaling Infrastructure") for a mandatory 90-day window. Force a weekly cadence of documenting one concrete client victory with hard metrics (e.g., "How Company X cut time-to-hire by 35%"), ensuring the algorithm indexes and pushes the content to the correct Interest Graph segment.
 
+---
 
 ## Post 5: Full-Funnel Conversion Architecture (Pipeline vs. Vanity Metrics)
 - **Date Collected:** 2026-06-20
