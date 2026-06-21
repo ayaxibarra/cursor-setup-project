@@ -1,4 +1,3 @@
-HEAD
 # LinkedIn Organic Content Strategy for B2B SaaS
 
 ## Project Overview
