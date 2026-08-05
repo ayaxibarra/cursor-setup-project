@@ -44,6 +44,12 @@ Readers consistently associate your profile with a specific expertise, making yo
 - Focus on a small number of content pillars.
 - Consistency creates recognition.
 
+#### Sources
+
+- Justin Welsh, *Build a clear niche and become known for one thing*, LinkedIn (2026-06-19).
+- Lara Acosta, *Personal branding through clear positioning and content pillars*, LinkedIn (2026-06-19).
+- Ross Simmonds, *Research your audience and industry. Create content worth talking about. Distribute stories like wildfire.*, LinkedIn (2026-06-19).
+
 ### Step 2. Optimize Your Profile
 
 #### Objective
@@ -66,6 +72,11 @@ Visitors immediately understand your expertise and are more likely to follow, en
 - Trust precedes conversion.
 - Authority is built through consistency.
 - Clarity improves discoverability.
+
+#### Sources
+
+- Justin Welsh, *Optimize your LinkedIn profile before creating content*, LinkedIn (2026-06-19).
+- Lara Acosta, *Your profile should convert profile visitors into followers and clients*, LinkedIn (2026-06-19).
 
 ### Step 3. Build Your Content System
 
@@ -90,6 +101,12 @@ Content production becomes systematic rather than reactive, enabling consistent 
 - Repurpose before creating from scratch.
 - Consistency compounds.
 
+#### Sources
+
+- Justin Welsh, *Consistency beats intensity and systems outperform motivation*, LinkedIn (2026-06-19).
+- Lara Acosta, *Create repeatable content systems instead of relying on inspiration*, LinkedIn (2026-06-19).
+- Ross Simmonds, *Research → Create → Distribute → Optimize*, LinkedIn (2026-06-19).
+
 ### Step 4. Create Valuable Content
 
 #### Objective
@@ -112,6 +129,12 @@ Content becomes easier to consume, more memorable, and more likely to generate m
 - Teach instead of selling.
 - One idea per post.
 - Original experience beats generic advice.
+
+#### Sources
+
+- Justin Welsh, *Teach through personal experience instead of generic advice*, LinkedIn (2026-06-19).
+- Tom Orbach, *One idea per post and optimize for readability*, LinkedIn (2026-06-19).
+- Ross Simmonds, *Create content worth talking about and optimize it for every channel*, LinkedIn (2026-06-19).
 
 ### Step 5. Distribute and Engage
 
@@ -136,6 +159,12 @@ Authority grows through repeated visibility, stronger relationships, and increas
 - Relationships compound.
 - Community creates credibility.
 
+#### Sources
+
+- Ross Simmonds, https://www.linkedin.com/posts/rosssimmonds_research-your-audience-and-industry-create-activity-7472622763208511489-hLdY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+- Mandy McEwen, https://www.linkedin.com/posts/mandymcewen_this-is-how-sales-teams-get-an-1187-reply-activity-7469772732180709376-hb44?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+- Tom Orbach, https://www.linkedin.com/posts/tomorbach_building-an-audience-from-scratch-is-stupid-activity-7376883159348428800-6cFa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+
 ### Step 6. Measure and Improve
 
 #### Objective
@@ -158,3 +187,9 @@ The content strategy evolves through continuous learning and produces increasing
 - Optimize for influence, not impressions.
 - Iterate continuously.
 - Long-term authority compounds.
+
+#### Sources
+
+- Ross Simmonds, https://www.linkedin.com/posts/rosssimmonds_marketing-activity-7472634098751279104-oUKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+- Justin Welsh,  https://www.linkedin.com/posts/justinwelsh_criticism-shows-up-fast-real-results-show-activity-7471538114885296128-BomJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+- Tyler Denk, https://www.linkedin.com/posts/tyler-denk_last-week-we-hit-30m-arr-and-were-making-activity-7468002454782238721-l_WH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
