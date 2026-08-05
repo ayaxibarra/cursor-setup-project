@@ -241,6 +241,30 @@ Content should remain valuable for people first while maintaining clear semantic
 
 ## 6. My Original Idea
 
+# My Original Idea
+
+## The Authority Flywheel
+
+Most experts optimize a single stage of the content process.
+
+Some focus on writing.
+
+Others focus on distribution.
+
+Others emphasize AI discoverability.
+
+I propose treating LinkedIn as a continuous authority flywheel composed of five stages:
+
+1. Create original insight.
+2. Publish natively on LinkedIn.
+3. Distribute beyond the feed through comments, communities, newsletters, and employee advocacy.
+4. Increase AI discoverability by using explicit positioning and structured language.
+5. Convert accumulated trust into relationships, partnerships, and qualified opportunities.
+
+Each completed cycle strengthens the next.
+
+Rather than chasing individual viral posts, the objective becomes continuously increasing organizational authority across both human audiences and AI systems.
+
 ## 7. Weaknesses of this Playbook
 
 ## 8. Who I Would NOT Recommend Following and Why
