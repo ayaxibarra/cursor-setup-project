@@ -267,6 +267,14 @@ Rather than chasing individual viral posts, the objective becomes continuously i
 
 ## 7. Weaknesses of this Playbook
 
+This playbook has several limitations.
+
+- It focuses primarily on B2B SaaS companies.
+- Most sources are experienced practitioners rather than academic research.
+- LinkedIn's platform evolves continuously.
+- AI search behavior is changing rapidly.
+- Some recommendations may become outdated over time.
+
 ## 8. Who I Would NOT Recommend Following and Why
 
 ## 9. References
