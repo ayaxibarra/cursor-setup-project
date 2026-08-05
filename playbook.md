@@ -209,6 +209,36 @@ The ultimate objective is becoming a trusted source that people, companies, and 
 
 ## 5. What I Rejected and Why
 
+Not every recommendation appeared equally useful.
+
+The following ideas were intentionally excluded from this playbook.
+
+---
+
+## Chasing Virality
+
+Several creators discuss viral tactics.
+
+However, virality is difficult to reproduce consistently and often produces low-quality audiences.
+
+This playbook prioritizes sustainable authority over temporary reach.
+
+---
+
+## Over-Optimizing for LinkedIn's Algorithm
+
+Many tactical recommendations become obsolete quickly.
+
+The playbook focuses instead on durable principles such as positioning, expertise, trust, and distribution.
+
+---
+
+## Excessive AI Optimization
+
+Although AI visibility is becoming increasingly important, creating content primarily for language models risks reducing readability for human audiences.
+
+Content should remain valuable for people first while maintaining clear semantic structure.
+
 ## 6. My Original Idea
 
 ## 7. Weaknesses of this Playbook
