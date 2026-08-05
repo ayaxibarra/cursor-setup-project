@@ -213,6 +213,21 @@ This playbook has several limitations.
 - AI search behavior is changing rapidly.
 - Some recommendations may become outdated over time.
 
-## 8. Who I Would NOT Recommend Following and Why
+## Who I Would NOT Recommend Following and Why
 
-## 9. References
+If I had to recommend one expert less enthusiastically, I would choose **Tom Orbach**.
+
+This is not because his ideas are ineffective. In fact, many of his growth strategies are highly creative and have been successfully applied at companies such as Wiz. However, I believe a significant portion of his recommendations are difficult to generalize for early-stage B2B SaaS companies.
+
+Several of his recurring tactics depend on conditions that many startups do not have:
+
+- Existing brand recognition.
+- Access to large marketing teams.
+- Significant design and production resources.
+- A product already capable of generating word-of-mouth.
+
+For example, strategies such as creating large-scale viral "drops," borrowing audiences through influencer partnerships, or launching highly polished free tools can require resources that are unavailable to smaller companies.
+
+In contrast, experts such as Justin Welsh, Ross Simmonds, and Lara Acosta provide systems that are easier to execute consistently regardless of company size. Their recommendations focus on repeatable processes—consistent publishing, authority building, audience research, and content distribution—that remain valuable even with limited budgets.
+
+For these reasons, I would recommend studying Tom Orbach after mastering the more fundamental frameworks presented by the other experts, rather than using his content as a starting point.
