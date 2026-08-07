@@ -9,9 +9,9 @@ Rather than focusing on viral content or isolated tactics, this playbook synthes
 ## 2. Guiding Principles
 
 1. Build trust before asking for attention.
-2. Prioritize consistency over virality.
-3. Focus on a small number of content pillars.
-4. Share original experience rather than generic advice.
+2. Focus on a small number of content pillars.
+3. Share original experience rather than generic advice.
+4. Prioritize consistency over virality.
 5. Distribute content as intentionally as you create it.
 6. Build content assets that compound over time.
 7. Optimize for meaningful conversations, authority, and AI visibility.
@@ -36,7 +36,7 @@ Establish a clear market position that makes it immediately obvious who you help
 
 #### Expected Outcome
 
-Readers consistently associate your profile with a specific expertise, making your content easier to recognize, trust, and remember.
+Prospective customers and peers consistently associate your profile with a specific area of expertise, making your content easier to recognize, trust, and remember.
 
 #### Supporting Principles
 
@@ -46,9 +46,9 @@ Readers consistently associate your profile with a specific expertise, making yo
 
 #### Sources
 
-- Justin Welsh, *Build a clear niche and become known for one thing*, LinkedIn (2026-06-19).
-- Lara Acosta, *Personal branding through clear positioning and content pillars*, LinkedIn (2026-06-19).
-- Ross Simmonds, *Research your audience and industry. Create content worth talking about. Distribute stories like wildfire.*, LinkedIn (2026-06-19).
+- [Justin Welsh](https://www.linkedin.com/posts/justinwelsh_people-love-to-tell-you-whats-reasonable-activity-7473340833384050688-Y-XC) — "People love to tell you what's reasonable..."
+
+- [Ross Simmonds](https://www.linkedin.com/posts/rosssimmonds_research-your-audience-and-industry-create-activity-7472622763208511489-hLdY) — "Research your audience and industry. Create content worth talking about. Distribute stories like wildfire."
 
 ### Step 2. Optimize Your Profile
 
@@ -65,7 +65,7 @@ Turn your LinkedIn profile into a credibility asset that clearly communicates ex
 
 #### Expected Outcome
 
-Visitors immediately understand your expertise and are more likely to follow, engage, or contact you.
+Visitors immediately understand who you help, the value you provide, and why they should follow or contact you.
 
 #### Supporting Principles
 
@@ -75,8 +75,7 @@ Visitors immediately understand your expertise and are more likely to follow, en
 
 #### Sources
 
-- Justin Welsh, *Optimize your LinkedIn profile before creating content*, LinkedIn (2026-06-19).
-- Lara Acosta, *Your profile should convert profile visitors into followers and clients*, LinkedIn (2026-06-19).
+- [Justin Welsh](https://www.linkedin.com/posts/justinwelsh_everyone-wants-the-result-few-people-want-activity-7473703222877233154-dGlU) — "Everyone wants the result. Few people want..."
 
 ### Step 3. Build Your Content System
 
@@ -93,7 +92,7 @@ Create a repeatable publishing system that consistently produces valuable conten
 
 #### Expected Outcome
 
-Content production becomes systematic rather than reactive, enabling consistent publishing and stronger authority over time.
+Content production becomes a repeatable process, enabling consistent publishing without relying on inspiration while steadily strengthening authority.
 
 #### Supporting Principles
 
@@ -103,9 +102,11 @@ Content production becomes systematic rather than reactive, enabling consistent 
 
 #### Sources
 
-- Justin Welsh, *Consistency beats intensity and systems outperform motivation*, LinkedIn (2026-06-19).
-- Lara Acosta, *Create repeatable content systems instead of relying on inspiration*, LinkedIn (2026-06-19).
-- Ross Simmonds, *Research → Create → Distribute → Optimize*, LinkedIn (2026-06-19).
+- [Justin Welsh](https://www.linkedin.com/posts/justinwelsh_everyones-working-for-the-cheat-code-and-activity-7469354567831560192-5e1i) — "Everyone's working for the cheat code..."
+
+- [Ross Simmonds](https://www.linkedin.com/posts/rosssimmonds_research-your-audience-and-industry-create-activity-7472622763208511489-hLdY) — "Research your audience and industry..."
+
+- [Tyler Denk](https://www.linkedin.com/posts/tyler-denk_you-dont-need-credibility-to-start-making-activity-7462148213186412545-LFH2) — "You don't need credibility to start making..."
 
 ### Step 4. Create Valuable Content
 
@@ -122,7 +123,7 @@ Publish content that educates, builds trust, and demonstrates practical expertis
 
 #### Expected Outcome
 
-Content becomes easier to consume, more memorable, and more likely to generate meaningful conversations.
+Posts consistently educate the target audience, generate meaningful conversations, and reinforce your expertise.
 
 #### Supporting Principles
 
@@ -132,15 +133,17 @@ Content becomes easier to consume, more memorable, and more likely to generate m
 
 #### Sources
 
-- Justin Welsh, *Teach through personal experience instead of generic advice*, LinkedIn (2026-06-19).
-- Tom Orbach, *One idea per post and optimize for readability*, LinkedIn (2026-06-19).
-- Ross Simmonds, *Create content worth talking about and optimize it for every channel*, LinkedIn (2026-06-19).
+- [Justin Welsh](https://www.linkedin.com/posts/justinwelsh_i-can-trace-my-success-back-to-one-specific-activity-7472978450908258304-uoFL) — "I can trace my success back to one specific habit..."
+
+- [Tom Orbach](https://www.linkedin.com/posts/tomorbach_i-know-it-sounds-stupid-but-if-you-want-activity-7436676402122387456-jXom) — "I know it sounds stupid, but if you want..."
+
+- [Ross Simmonds](https://www.linkedin.com/posts/rosssimmonds_research-your-audience-and-industry-create-activity-7472622763208511489-hLdY) — "Research your audience and industry..."
 
 ### Step 5. Distribute and Engage
 
 #### Objective
 
-Expand reach by actively participating in conversations instead of relying solely on publishing.
+Expand reach by actively participating in conversations in addition to publishing consistently.
 
 #### Actions
 
@@ -151,7 +154,7 @@ Expand reach by actively participating in conversations instead of relying solel
 
 #### Expected Outcome
 
-Authority grows through repeated visibility, stronger relationships, and increased network effects.
+Your network expands through genuine interactions, increasing visibility, credibility, and opportunities for collaboration or business conversations.
 
 #### Supporting Principles
 
@@ -161,9 +164,11 @@ Authority grows through repeated visibility, stronger relationships, and increas
 
 #### Sources
 
-- Ross Simmonds, https://www.linkedin.com/posts/rosssimmonds_research-your-audience-and-industry-create-activity-7472622763208511489-hLdY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
-- Mandy McEwen, https://www.linkedin.com/posts/mandymcewen_this-is-how-sales-teams-get-an-1187-reply-activity-7469772732180709376-hb44?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
-- Tom Orbach, https://www.linkedin.com/posts/tomorbach_building-an-audience-from-scratch-is-stupid-activity-7376883159348428800-6cFa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+- [Ross Simmonds](https://www.linkedin.com/posts/rosssimmonds_marketing-activity-7472634098751279104-oUKJ) — "Marketing is changing..."
+
+- [Mandy McEwen](https://www.linkedin.com/posts/mandymcewen_this-is-how-sales-teams-get-an-1187-reply-activity-7469772732180709376-hb44) — "This is how sales teams get an 1187% reply rate."
+
+- [Tom Orbach](https://www.linkedin.com/posts/tomorbach_building-an-audience-from-scratch-is-stupid-activity-7376883159348428800-6cFa) — "Building an audience from scratch is stupid."
 
 ### Step 6. Measure and Improve
 
@@ -173,14 +178,14 @@ Continuously improve the content strategy by evaluating meaningful signals inste
 
 #### Actions
 
-1. Review engagement quality rather than total impressions.
+1. Review engagement quality, profile visits, and qualified conversations rather than total impressions.
 2. Identify topics that consistently generate conversations.
 3. Double down on successful content pillars.
 4. Regularly update positioning and messaging based on audience feedback.
 
 #### Expected Outcome
 
-The content strategy evolves through continuous learning and produces increasingly relevant and trusted content.
+The content strategy continuously improves by reinforcing successful topics, eliminating ineffective approaches, and adapting to audience feedback.
 
 #### Supporting Principles
 
@@ -190,6 +195,8 @@ The content strategy evolves through continuous learning and produces increasing
 
 #### Sources
 
-- Ross Simmonds, https://www.linkedin.com/posts/rosssimmonds_marketing-activity-7472634098751279104-oUKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
-- Justin Welsh,  https://www.linkedin.com/posts/justinwelsh_criticism-shows-up-fast-real-results-show-activity-7471538114885296128-BomJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
-- Tyler Denk, https://www.linkedin.com/posts/tyler-denk_last-week-we-hit-30m-arr-and-were-making-activity-7468002454782238721-l_WH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsvczIBwk31Kfp-odj_kyZwsSYXsHjRRIY, LinkedIn (2026-06-19).
+- [Ross Simmonds](https://www.linkedin.com/posts/rosssimmonds_marketing-activity-7472634098751279104-oUKJ) — "Marketing is changing..."
+
+- [Justin Welsh](https://www.linkedin.com/posts/justinwelsh_criticism-shows-up-fast-real-results-show-activity-7471538114885296128-BomJ) — "Criticism shows up fast. Real results show up slowly."
+
+- [Tyler Denk](https://www.linkedin.com/posts/tyler-denk_last-week-we-hit-30m-arr-and-were-making-activity-7468002454782238721-l_WH) — "Last week we hit $30M ARR..."
