@@ -64,7 +64,6 @@ Trust generates opportunities.
 Supported by:
 
 - Justin Welsh
-- Lara Acosta
 - Dave Gerhardt
 - Ross Simmonds
 
@@ -179,8 +178,6 @@ Content should remain valuable for people first while maintaining clear semantic
 
 ## My Original Idea
 
-# My Original Idea
-
 ## The Authority Flywheel
 
 Most experts optimize a single stage of the content process.
@@ -212,6 +209,7 @@ This playbook has several limitations.
 - LinkedIn's platform evolves continuously.
 - AI search behavior is changing rapidly.
 - Some recommendations may become outdated over time.
+- The recommendations were synthesized from a limited sample of experts and may not represent the entire B2B SaaS ecosystem.
 
 ## Who I Would NOT Recommend Following and Why
 
@@ -226,8 +224,8 @@ Several of his recurring tactics depend on conditions that many startups do not 
 - Significant design and production resources.
 - A product already capable of generating word-of-mouth.
 
-For example, strategies such as creating large-scale viral "drops," borrowing audiences through influencer partnerships, or launching highly polished free tools can require resources that are unavailable to smaller companies.
+For example, strategies such as creating large-scale viral "drops", borrowing audiences through influencer partnerships, or launching highly polished free tools can require resources that are unavailable to smaller companies.
 
-In contrast, experts such as Justin Welsh, Ross Simmonds, and Lara Acosta provide systems that are easier to execute consistently regardless of company size. Their recommendations focus on repeatable processes—consistent publishing, authority building, audience research, and content distribution—that remain valuable even with limited budgets.
+In contrast, experts such as Justin Welsh, Ross Simmonds and Dave Gerhardt provide systems that are easier to execute consistently regardless of company size. Their recommendations focus on repeatable processes—consistent publishing, authority building, audience research, and content distribution—that remain valuable even with limited budgets.
 
 For these reasons, I would recommend studying Tom Orbach after mastering the more fundamental frameworks presented by the other experts, rather than using his content as a starting point.
