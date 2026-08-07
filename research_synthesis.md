@@ -1,14 +1,13 @@
 # Common Principles
 
-1. Authority compounds over time
+## 1. Authority compounds over time
 
-Experts
+**Experts supporting this principle**
 
-Justin Welsh
-Ross Simmonds
-Tom Orbach
-Tyler Denk
-Shared idea
+- Justin Welsh
+- Ross Simmonds
+- Tom Orbach
+- Tyler Denk
 
 LinkedIn is not a channel for immediate lead generation.
 
@@ -23,187 +22,183 @@ Ross → Influence instead of traffic
 Tom → Borrowed authority
 Tyler → Becoming a media company
 
-Underlying principle:
+**Underlying Principle:**
 
 Build reputation first. Revenue follows.
 
-2. Distribution matters more than creation
+## 2. Distribution matters more than creation
 
-Experts
+**Experts supporting this principle**
 
-Ross Simmonds
-Tom Orbach
-Tyler Denk
-Justin Welsh
+- Ross Simmonds
+- Tom Orbach
+- Tyler Denk
+- Justin Welsh
 
 Everyone agrees that producing content is only half of the job.
 
 The real leverage comes from distribution.
 
-Examples:
+**Examples:**
 
-Ross
+**Ross Simmonds**
 
-Content Distribution
-AI Visibility
-AEO
+- Content distribution
+- AI visibility
+- Answer Engine Optimization (AEO)
 
-Tom
+**Tom Orbach**
 
-Borrow other audiences
-Make content shareable
+- Borrow other audiences
+- Create highly shareable content
 
-Tyler
+**Tyler Denk**
 
-Email lists
-Owned media
-Newsletters
+- Email lists
+- Owned media
+- Newsletters
 
-Justin
+**Justin Welsh**
 
-Comment strategy
-Consistency
+- Comment strategy
+- Consistency
 
 Different tactics.
 
-Same principle:
+**Underlying Principle:**
 
-Great content nobody sees has zero value.
+Great content that nobody sees creates little business value. Distribution is what transforms content into business outcomes.
 
-3. Original knowledge beats generic education
+## 3. Original knowledge beats generic education
 
-Experts
+**Experts supporting this principle**
 
-Ross
-Tyler
-Tom
+- Ross Simmonds
+- Tom Orbach
+- Tyler Denk
 
-Repeated theme:
+A recurring theme across these experts is:
 
-Don't explain what already exists.
+> Don't explain what already exists. Create information that only you can publish.
 
-Create information that only you can publish.
+**Examples include:**
 
-Examples
+- Proprietary data
+- Original research reports
+- Internal metrics
+- Customer stories
+- Experiments
+- Benchmarks
 
-proprietary data
-reports
-internal metrics
-customer stories
-experiments
-benchmarks
-
-Reason
+**Reason:**
 
 AI cannot replace unique experiences.
 
-4. Build for humans AND machines
+## 4. Build for humans AND machines
 
-Experts
+**Experts supporting this principle**
 
-Ross
-Tyler
+- Ross Simmonds
+- Tyler Denk
 
-Modern content has two audiences.
+Content should be optimized for two audiences.
 
-Humans
+### Humans
 
-storytelling
-emotion
-readability
+- Storytelling
+- Emotion
+- Readability
 
-Machines
+### Machines
 
-semantic clarity
-structured information
-AI discoverability
-AEO
+- Semantic clarity
+- Structured information
+- AI discoverability
+- Answer Engine Optimization (AEO)
 
-The best content satisfies both.
+The strongest content performs well for both.
 
-5. Trust is stronger than reach
+## 5. Trust is stronger than reach
 
-Experts
+**Experts supporting this principle**
 
-Welsh
-Ross
-Tom
+- Justin Welsh
+- Ross Simmonds
+- Tom Orbach
 
 Large audiences don't necessarily create pipeline.
 
 Trust does.
 
-Trust comes from
+Trust is built through:
 
-consistency
-proof
-transparency
-showing work
-helping people
-6. One clear idea per piece of content
+- Consistency
+- Social proof
+- Transparency
+- Showing your work
+- Helping your audience
 
-Experts
+## 6. One clear idea per piece of content
 
-Tom
-Welsh
+**Experts supporting this principle**
 
-Successful LinkedIn posts are simple.
+- Tom Orbach
+- Justin Welsh
 
-One problem.
+Successful LinkedIn posts usually communicate:
 
-One lesson.
+- One problem
+- One lesson
+- One clear takeaway
 
-One takeaway.
+Trying to teach five different ideas in a single post often reduces clarity and engagement.
 
-Trying to teach five things usually reduces engagement.
+## 7. Product is content
 
-7. Product is content
+**Experts supporting this principle**
 
-Experts
-
-Tyler
-Tom
+- Tyler Denk
+- Tom Orbach
 
 The product itself should become part of marketing.
 
-Examples
+Examples include:
 
-free tools
-public reports
-templates
-badges
-integrations
-MCP
+- Free tools
+- Public reports
+- Templates
+- Badges
+- Integrations
+- MCP servers
 
 Marketing shouldn't exist separately from the product.
 
-8. Owned audiences are strategic assets
+## 8. Owned audiences are strategic assets
 
-Experts
+**Experts supporting this principle**
 
-Tyler
-Tom
+- Tyler Denk
+- Tom Orbach
 
 LinkedIn is rented land.
 
-Email.
+Examples include:
 
-Newsletter.
-
-Community.
-
-Customer database.
+- Email lists
+- Newsletters
+- Communities
+- Customer databases
 
 Those are owned assets.
 
 The goal is always to move attention toward assets you control.
 
-9. Consistency beats intensity
+## 9. Consistency beats intensity
 
-Experts
+**Experts supporting this principle**
 
-Welsh
-Tom
+- Justin Welsh
+- Tom Orbach
 
 Nobody recommends random bursts of content.
 
@@ -213,25 +208,25 @@ Authority compounds.
 
 Algorithms reward consistency.
 
-Readers expect consistency.
+Readers learn to expect consistency, which strengthens familiarity, trust, and long-term authority.
 
 # Expert Disagreements
 
-1. Personal Brand vs Product Brand
+## 1. Personal Brand vs Product Brand
 
-Justin Welsh
+### Justin Welsh
 
 Growth starts with the founder.
 
 People buy from people.
 
-Tyler Denk
+### Tyler Denk
 
 Companies themselves should become media companies.
 
 The product can become the brand.
 
-Observation
+**Observation**
 
 Both work.
 
@@ -239,37 +234,49 @@ Founder-led companies benefit from personal brands.
 
 Larger SaaS companies eventually need media assets independent of the founder.
 
-2. Daily Publishing vs Publishing Less but Better
+## 2. Daily Publishing vs Publishing Less but Better
 
-Welsh leans heavily toward consistency and frequent posting.
+### Justin Welsh 
 
-Ross emphasizes creating assets worth distributing repeatedly.
+Leans heavily toward consistency and frequent posting.
 
-Tom often prioritizes remarkable campaigns over volume.
+### Ross Simmonds
 
-Observation
+Emphasizes creating assets worth distributing repeatedly.
+
+### Tom Orbach
+
+Often prioritizes remarkable campaigns over volume.
+
+**Observation**
 
 The disagreement isn't frequency.
 
 It's where leverage comes from.
 
-3. Viral Reach vs Long-Term Authority
+## 3. Viral Reach vs Long-Term Authority
 
-Tom frequently discusses virality.
+### Tom Orbach 
 
-Ross repeatedly argues influence matters more than traffic.
+Frequently discusses virality.
 
-Tyler emphasizes owned distribution.
+### Ross Simmonds
 
-Observation
+Repeatedly argues influence matters more than traffic.
+
+### Tyler Denk 
+
+Emphasizes owned distribution.
+
+**Observation**
 
 Virality creates awareness.
 
 Authority creates demand.
 
-4. SEO/AEO vs Relationship Building
+## 4. SEO/AEO vs Relationship Building
 
-Ross
+### Ross Simmonds
 
 AI visibility.
 
@@ -277,7 +284,7 @@ Semantic optimization.
 
 Authority signals.
 
-Justin
+### Justin Welsh
 
 Conversations.
 
@@ -285,7 +292,7 @@ Comments.
 
 Relationships.
 
-Observation
+**Observation**
 
 One optimizes for algorithms.
 
@@ -293,9 +300,9 @@ The other optimizes for humans.
 
 The strongest strategy combines both.
 
-5. Founder Storytelling vs Proprietary Data
+## 5. Founder Storytelling vs Proprietary Data
 
-Welsh
+### Justin Welsh
 
 Personal lessons.
 
@@ -303,7 +310,7 @@ Stories.
 
 Experience.
 
-Ross / Tyler
+### Ross Simmonds and Tyler Denk
 
 Original research.
 
@@ -311,7 +318,7 @@ Benchmarks.
 
 Reports.
 
-Observation
+**Observation**
 
 Stories build trust.
 
@@ -321,48 +328,48 @@ Neither replaces the other.
 
 # Ideas Worth Rejecting
 
-Rejected Idea 1
+## Rejected Idea 1
 
 Posting only for impressions.
 
-Reason
+**Reason**
 
 Nearly every expert argues that impressions are a vanity metric.
 
-Rejected Idea 2
+## Rejected Idea 2
 
 Writing generic educational posts.
 
-Reason
+**Reason**
 
 AI already produces generic educational content.
 
 Companies win by publishing unique knowledge.
 
-Rejected Idea 3
+## Rejected Idea 3
 
 Treating LinkedIn as a lead-generation platform only.
 
-Reason
+**Reason**
 
 Experts consistently describe LinkedIn as a reputation-building platform.
 
 Revenue is a downstream effect.
 
-Rejected Idea 4
+## Rejected Idea 4
 
 Depending entirely on LinkedIn.
 
-Reason
+**Reason**
 
 Attention should ultimately move toward owned assets like email, newsletters or communities.
 
-Rejected Idea 5
+## Rejected Idea 5
 
 Optimizing exclusively for today's algorithm.
 
-Reason
+**Reason**
 
 Algorithms change.
 
-Authority, trust and original knowledge remain valuable regardless of platform changes.
+Authority, trust, and original knowledge remain valuable regardless of platform changes.
